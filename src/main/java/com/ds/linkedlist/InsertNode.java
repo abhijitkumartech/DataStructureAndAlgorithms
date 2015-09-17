@@ -101,7 +101,6 @@ public class InsertNode {
         System.out.println(sb);
     }
 
-
     public static void main(String[] args) {
 
         InsertNode insertNode = new InsertNode();
